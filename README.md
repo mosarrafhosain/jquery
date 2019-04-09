@@ -1,2 +1,2 @@
-# jquery
+# jQuery
 Practice jQuery
